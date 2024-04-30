@@ -2,7 +2,7 @@ Package: consensusOV
 Type: Package
 Title: Gene expression-based subtype classification for high-grade
     serous ovarian cancer
-Version: 1.25.1
+Version: 1.26.0
 Date: 2024-02-05
 Authors@R: c(
   person('Gregory', 'Chen', 'M', role=c('aut')),
